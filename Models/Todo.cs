@@ -1,4 +1,4 @@
-namespace DotnetTodoApi.Data.Models;
+namespace DotnetTodoApi.Models;
 
 public class Todo
 {
