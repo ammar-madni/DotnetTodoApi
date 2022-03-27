@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DotnetTodoApi.Data;
-using DotnetTodoApi.Data.Models;
+using DotnetTodoApi.Models;
 
 namespace DotnetTodoApi.Controllers
 {
